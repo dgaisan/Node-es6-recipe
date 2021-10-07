@@ -1,0 +1,7 @@
+### Details
+- Node.js/Express (node v. < 13.0) project boilerplate that supports ES6 (syntax + import modules).
+- `npm start` to start up express server
+
+### Notes
+- uses `npx` for starting up the server (`npm install -g npx`)
+
